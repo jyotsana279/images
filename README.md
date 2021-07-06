@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Jyotsana Singh</h1>
-<h3 align="center">A passionate coder</h3>
+<h3 align="center">A passionate coder and Content Writer eager to explore. I love learning new stuff, increasing connections and always in search of opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotsana279&label=Profile%20views&color=0e75b6&style=flat" alt="jyotsana279" /> </p>
+
+- 🔭 I’m currently working on **improving my coding and learning new programming languages**
+
+- 🌱 I’m currently learning **C++, Python and Java Script**
+
+- 🤝 I’m looking for help with **future geeks who are ready to make a new change in the society.**
+
+- 💬 Ask me about **anything! Always ready to help.**
 
 - 📫 How to reach me **jyotsanasingh279@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jyotsana279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jyotsana279" height="30" width="40" /></a>
+<a href="https://dev.to/jyotsana279" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jyotsana279" height="30" width="40" /></a>
 <a href="https://twitter.com/jyotsanasingh27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotsanasingh27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jyotsana-singh-4465011b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotsana-singh-4465011b9" height="30" width="40" /></a>
 <a href="https://fb.com/jyotsana.singh.279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jyotsana.singh.279" height="30" width="40" /></a>
@@ -26,3 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotsana279&show_icons=true&locale=en&layout=compact" alt="jyotsana279" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotsana279&show_icons=true&locale=en" alt="jyotsana279" /></p>
+
